@@ -1,0 +1,13 @@
+{
+    "name": "RDIFB0/data-image",
+    "description": "Generate inline images",
+    "authors": [
+        {
+            "name": "RDIFB0",
+            "email": "rdifb0@gmail.com"
+        }
+    ],
+    "require": {
+        "php": ">=5.3.0"
+    }
+}
